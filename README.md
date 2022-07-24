@@ -9,5 +9,6 @@ java -jar target/hello-world-1.0.jar
 Output :
 
 ```
-hello world!
+The current local time is: 00:00:00.000
+Hello world!
 ```
